@@ -1,0 +1,25 @@
+p {
+    font-weight: 800;
+    font-size: 20px;
+    height: 5px;
+}
+
+h1, ul {
+    display: inline-block;
+    width: 45%;
+
+}
+h1 { background-color: aquamarine;
+}
+
+
+.text-contents {
+    font-size: 20px;
+}
+
+.header-li {
+    display: inline-block;
+    margin: 25px;
+    font-size: 20px;
+    height: 5px;
+}
